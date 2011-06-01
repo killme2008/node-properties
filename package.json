@@ -1,0 +1,6 @@
+{
+        name:'node_properties',
+        main:'./lib/node_properties.js',
+        author:'dennis zhuang(killme2008@gmail.com)',
+        version:'0.1'
+}
